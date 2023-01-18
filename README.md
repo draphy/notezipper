@@ -46,5 +46,6 @@ You can register a new account or login with an existing one.
 - [Bootstrap](http://getbootstrap.com/)
 - [Cloudinary](https://cloudinary.com/)
 - [Redux](https://redux.js.org/)
+- [JWT](https://jwt.io/)
 
 
