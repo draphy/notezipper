@@ -1,0 +1,13 @@
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.profilePicSize{
+  height: 10vh;
+  margin: 0 0px 16px;
+}
+.profilePicLabel{
+  display: flex;
+  margin-bottom: -10px !important;
+}
